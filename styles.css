@@ -1,0 +1,12 @@
+/*
+Author: Eric Miller
+Assignment: Git More Practice
+Date: 10/19/2023
+Filename: styles.css
+*/
+
+h1 {
+    font-size: 1.5em;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 5px 5px 5px black;    
+}
