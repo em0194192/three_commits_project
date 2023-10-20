@@ -7,6 +7,15 @@ Filename: styles.css
 
 h1 {
     font-size: 1.5em;
+    text-shadow: 5px 5px 5px black;
+    text-align: center;    
+}
+
+body {
     font-family: Arial, Helvetica, sans-serif;
-    text-shadow: 5px 5px 5px black;    
+}
+
+footer {
+    text-align: center;
+    font-weight: bold;
 }
